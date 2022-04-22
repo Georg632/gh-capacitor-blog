@@ -1,0 +1,9 @@
+{
+	"appId": "com.cap.test",
+	"appName": "CapTest",
+	"bundledWebRuntime": false,
+	"server": {
+		"url": "http://<angularMachineIP>:4200",
+		"cleartext": true
+	}
+}
